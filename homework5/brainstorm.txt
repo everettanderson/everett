@@ -1,0 +1,22 @@
+Topics:
+
+Chemistry - orbitals and their overlaps between different molecules.
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Quantum_Mechanics/11%3A_Molecules/Overlap_Integral
+
+Math - permutation groups and the normality of their subgroups.
+https://scipp.ucsc.edu/~haber/ph251/Sn_subgroups.pdf
+
+Astro - radio waves emitted by certain compounds indicate character of stars/galaxies/etc
+https://almascience.nrao.edu/aq/
+
+Python skills - Using for/while loops to go through data and separate it into different lists/such.
+Dictionaries could also be created to organize different groups.
+
+Dream project - use an unprocessed version of the data and learn how it is organized into graphs.
+Realistic - use existing tools and processed data to graph and do more familiar data processing methods.
+
+Astro - classification infrared and other wave types measured allowing for determining nature of the universe.
+https://archive.stsci.edu/
+
+Technology - using nmap to scan ports for various computer safety motives.
+https://www.geeksforgeeks.org/computer-networks/nmap-scans-for-cyber-security-and-penetration-testing/
